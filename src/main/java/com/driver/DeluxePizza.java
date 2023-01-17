@@ -45,7 +45,7 @@ public class DeluxePizza extends Pizza {
         if(add1)
             total += 80;
         if(add2)
-            total += 70;
+            total += 120;
         if(ta)
             total += 20;
 
