@@ -13,7 +13,7 @@ public class Main {
     //System.out.println("Base Price Of The Pizza: " + p.getBill());
     p.addExtraCheese();
     p.addExtraToppings();
-    p.addTakeaway();
+   // p.addTakeaway();
     System.out.println(p.getBill());
   }
 }

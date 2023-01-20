@@ -37,7 +37,7 @@ public class Pizza {
 
     public void addExtraToppings(){
         // your code goes here
-        if(isVeg && addTopping == false){
+        if(addTopping == false){
             addTopping = true;
             price += isVeg?70:120;
         }
